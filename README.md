@@ -23,9 +23,13 @@ Design Steps for Differential Amplifier Stage
 6. If the desired current is known, designing VBIAS becomes straightforward.
 7. M5 functions as the tail current source of the differential amplifier.
 
+# SCHEMATIC
+
 
 <img width="817" height="826" alt="image (5)" src="https://github.com/user-attachments/assets/f24e3374-7916-485d-a207-c2b4a8fdceec" />
 
+
+# SIMULATION
 
 
 ![2 (1)](https://github.com/user-attachments/assets/ad533cec-15ac-409f-87e9-699f24a57d81)
