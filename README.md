@@ -9,7 +9,9 @@ A two-stage operational amplifier is a popular analog circuit used to achieve hi
 
 To ensure stable performance, a Miller compensation capacitor is placed between the two stages to manage bandwidth and enhance the phase margin. This configuration offers a good balance between gain, output range, and stability, making it widely suitable for analog ICs, active filters, and signal conditioning applications. Its flexible design also allows easy optimization of parameters such as slew rate, gain-bandwidth product, and power consumption.
 
+
 ![spec](https://github.com/user-attachments/assets/12408571-2e71-43b4-975f-77a51f532cf2)
+
 
 Design Steps for Differential Amplifier Stage 
 
@@ -22,13 +24,9 @@ Design Steps for Differential Amplifier Stage
 7. M5 functions as the tail current source of the differential amplifier.
 
 
-<img width="925" height="808" alt="image (1)" src="https://github.com/user-attachments/assets/d6e41e1d-c47b-4995-a34e-47b9a294af42" />
+<img width="817" height="826" alt="image (5)" src="https://github.com/user-attachments/assets/f24e3374-7916-485d-a207-c2b4a8fdceec" />
 
 
-<img width="735" height="517" alt="image (7)" src="https://github.com/user-attachments/assets/d831e36d-ccfa-43b4-87c0-5488aa4ba2c5" />
-
-
-<img width="1202" height="793" alt="image (6)" src="https://github.com/user-attachments/assets/baf83561-a6dc-4526-b697-5adf735adf08" />
 
 ![2 (1)](https://github.com/user-attachments/assets/ad533cec-15ac-409f-87e9-699f24a57d81)
 
