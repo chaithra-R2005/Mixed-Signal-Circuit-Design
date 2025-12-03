@@ -25,6 +25,8 @@ Design Steps for Differential Amplifier Stage
 
 # SCHEMATIC
 
+This schematic represents the transistor-level design of a two-stage CMOS operational amplifier using gpdk180 models. The first stage provides differential amplification with active loads, while the second gain stage boosts overall gain and drives the output node. Compensation and load capacitors are included to ensure stability and frequency-domain performance.
+
 
 <img width="817" height="826" alt="image (5)" src="https://github.com/user-attachments/assets/f24e3374-7916-485d-a207-c2b4a8fdceec" />
 
