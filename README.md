@@ -40,7 +40,19 @@ The test circuit applies differential AC signals to evaluate the small-signal ga
 <img width="1043" height="761" alt="test_ckt" src="https://github.com/user-attachments/assets/4f325314-efaa-4480-a694-c352c0a52c38" />
 
 
+# Transient Analysis
+
+<img width="1910" height="850" alt="trans_op" src="https://github.com/user-attachments/assets/0d7744cc-d011-4de1-bf93-55adcc327de3" />
+
+# AC analysis
+
+<img width="1910" height="850" alt="opamp_phase_mag_1" src="https://github.com/user-attachments/assets/d3d31175-a6b8-48b0-8250-f07f1594789f" />
+
+<img width="1169" height="247" alt="Screenshot 2025-12-03 161024" src="https://github.com/user-attachments/assets/af294f03-1fe0-4cf3-96b9-97394fb2322a" />
 
 
+# DC analysis
+
+<img width="1910" height="850" alt="dc_opamp" src="https://github.com/user-attachments/assets/d7685542-88e9-48fe-8e69-d9f1d113b39e" />
 
 
