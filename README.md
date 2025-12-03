@@ -31,7 +31,7 @@ This schematic represents the transistor-level design of a two-stage CMOS operat
 <img width="817" height="826" alt="image (5)" src="https://github.com/user-attachments/assets/f24e3374-7916-485d-a207-c2b4a8fdceec" />
 
 
-# Test circuit
+# TEST CIRCUIT
 
 The test circuit applies differential AC signals to evaluate the small-signal gain, bandwidth, and phase response of the designed op-amp. Supply sources and bias currents are provided to ensure correct operating points for both stages. The output node is monitored under load conditions to verify overall stability and transient behavior.
 
@@ -40,18 +40,18 @@ The test circuit applies differential AC signals to evaluate the small-signal ga
 <img width="1043" height="761" alt="test_ckt" src="https://github.com/user-attachments/assets/4f325314-efaa-4480-a694-c352c0a52c38" />
 
 
-# Transient Analysis
+# TRANSIENT ANALYSIS
 
 <img width="1910" height="850" alt="trans_op" src="https://github.com/user-attachments/assets/0d7744cc-d011-4de1-bf93-55adcc327de3" />
 
-# AC analysis
+# BODE PLOT
 
 <img width="1910" height="850" alt="opamp_phase_mag_1" src="https://github.com/user-attachments/assets/d3d31175-a6b8-48b0-8250-f07f1594789f" />
 
 <img width="1169" height="247" alt="Screenshot 2025-12-03 161024" src="https://github.com/user-attachments/assets/af294f03-1fe0-4cf3-96b9-97394fb2322a" />
 
 
-# DC analysis
+# DC ANALYSIS
 
 <img width="1910" height="850" alt="dc_opamp" src="https://github.com/user-attachments/assets/d7685542-88e9-48fe-8e69-d9f1d113b39e" />
 
