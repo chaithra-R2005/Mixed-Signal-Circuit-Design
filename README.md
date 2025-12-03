@@ -34,6 +34,7 @@ Design Steps for Differential Amplifier Stage
 
 ![2 (1)](https://github.com/user-attachments/assets/ad533cec-15ac-409f-87e9-699f24a57d81)
 
+ENTER THE DATA
 
 
 
