@@ -31,10 +31,14 @@ This schematic represents the transistor-level design of a two-stage CMOS operat
 <img width="817" height="826" alt="image (5)" src="https://github.com/user-attachments/assets/f24e3374-7916-485d-a207-c2b4a8fdceec" />
 
 
-# SIMULATION
+# Test circuit
+
+The test circuit applies differential AC signals to evaluate the small-signal gain, bandwidth, and phase response of the designed op-amp. Supply sources and bias currents are provided to ensure correct operating points for both stages. The output node is monitored under load conditions to verify overall stability and transient behavior.
 
 
-![2 (1)](https://github.com/user-attachments/assets/ad533cec-15ac-409f-87e9-699f24a57d81)
+
+<img width="1043" height="761" alt="test_ckt" src="https://github.com/user-attachments/assets/4f325314-efaa-4480-a694-c352c0a52c38" />
+
 
 
 
